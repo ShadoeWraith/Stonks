@@ -1,5 +1,3 @@
-using MySqlConnector;
-
 namespace server
 {
     public class WeatherForecast
